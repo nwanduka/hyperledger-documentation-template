@@ -1,11 +1,11 @@
-site_name: Hyperledger _PROJECT_
-repo_name: hyperledger-labs/documentation-template
-repo_url: https://github.com/hyperledger-labs/documentation-template
+site_name: My Hyperledger Mentorship Application
+repo_name: nwanduka/hyperledger-documentation-template
+repo_url: https://github.com/nwanduka/hyperledger-documentation-template
 theme:
   name: material
   custom_dir: overrides
-  logo: assets/project-logo.png
-  favicon: assets/project-icon.png
+  logo: assets/caliper-logo.png
+  favicon: assets/caliper-icon.png
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -82,6 +82,8 @@ extra:
     provider: mike
 nav:
   - Introduction: index.md
+  - My CV: cv.md
+  - My Cover Letter: coverletter.md
   - Concepts:
     - Concept 1: concepts/concept-1.md
     - Concept 2: concepts/concept-2.md
