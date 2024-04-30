@@ -74,6 +74,7 @@ markdown_extensions:
 plugins:
   - search
   - mike
+  - with-pdf
 extra:
   analytics:
     provider: google
