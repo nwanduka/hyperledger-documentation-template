@@ -33,7 +33,7 @@ I am writing to express my interest in the Hyperledger Caliper Documentation Pla
     
   One of the core skills I’ve developed as a User Experience Designer is empathy. In order to design products that are not just functional but are useful to the user, I’ve learned to put myself in the users’ shoes, feel their frustrations, so that I know exactly how to solve their pain points. Documentation works in much the same way. In this case, my users are the project's contributors and general users. My empathetic nature as a designer will help me create clear and concise documentation that caters to a diverse audience.
 
-    I also have over three years of writing experience. Writing has taught me the fundamentals of research and communication which are skills that I believe are necessary to excel in this documentation project. I understand that in order for me to clearly document the Caliper project, I need to know about the project and how it works. While I may be new to the specifics of Hyperledger Caliper, I'm a fast learner and eager to acquire the necessary knowledge to excel in this program.
+  I also have over three years of writing experience. Writing has taught me the fundamentals of research and communication which are skills that I believe are necessary to excel in this documentation project. I understand that in order for me to clearly document the Caliper project, I need to know about the project and how it works. While I may be new to the specifics of Hyperledger Caliper, I'm a fast learner and eager to acquire the necessary knowledge to excel in this program.
   
 - **What do you hope to get out of this mentorship experience?**
 
