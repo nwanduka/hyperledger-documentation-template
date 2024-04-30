@@ -75,7 +75,8 @@ plugins:
   - search
   - mike
   - exporter
-  - exporter-pdf
+  - exporter-pdf:
+      combined: true
 extra:
   analytics:
     provider: google
