@@ -74,9 +74,7 @@ markdown_extensions:
 plugins:
   - search
   - mike
-  - exporter
-  - exporter-pdf:
-      combined: true
+  - mkdocs-with-pdf
 extra:
   analytics:
     provider: google
